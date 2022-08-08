@@ -1,0 +1,23 @@
+{
+	"name": "mern-ecom",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node backend/server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/earthtomemphis/mernEcommProd.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/earthtomemphis/mernEcommProd/issues"
+	},
+	"homepage": "https://github.com/earthtomemphis/mernEcommProd#readme",
+	"dependencies": {
+		"express": "^4.18.1"
+	}
+}
